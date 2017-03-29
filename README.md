@@ -12,7 +12,7 @@ A video of it in action can be found [here.](https://www.youtube.com/watch?v=7-1
 
 ## Screenshot
 
-![Screenshot](/SreenshotGenieSmall.png)
+![Screenshot](Genie/SreenshotGenieSmall.png)
 
 
 ## Colider API
