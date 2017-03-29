@@ -12,6 +12,8 @@ A video of it in action can be found [here.](https://www.youtube.com/watch?v=7-1
 
 ## Screenshot
 
+![Screenshot](SreenshotGenieSmall.png)
+
 
 ## Colider API
 Colider is a program written in C that the website calls to generate collisions of words.
