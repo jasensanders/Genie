@@ -1,0 +1,67 @@
+/****************************************************************************
+ * styles.css
+ *
+ * Computer Science 50
+ * Problem Set 7
+ *
+ * Global CSS.
+ ***************************************************************************/
+body
+{
+background-image:url('../img/imageback.jpg');
+background-repeat:no-repeat;
+background-position:center top;
+background-size: cover;
+}
+
+.container
+{
+    background-color: transparent;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+    color:#FFFFFF;
+}
+
+#top
+{
+    /* center contents */
+    text-align: center;
+    color:#FFFFFF;
+    font-size: large;
+    margin: 20px;
+}
+
+#middle
+{
+    /* center contents */
+    text-align: center;
+    color:#000000;
+    
+    
+}
+
+#top .nav
+{
+    display: block;
+    text-align: center;
+    left: 1%;
+    font-size: 18px;
+}
+
+#bottom
+{
+    /* shrink bottom's font size */
+    font-size: smaller;
+
+    /* surround with whitespace */
+    margin: 20px;
+
+    /* center contents */
+    text-align: center;
+    position:absolute;
+    bottom:5px;
+    color:#FFFFFF;   
+}
+
+
